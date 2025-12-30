@@ -1,0 +1,7 @@
+{
+  "name": "Bakery Vendor Tracker",
+  "description": "A minimalistic tool for bakery owners to track vendor invoices, fluctuating ingredient prices, and payment statuses with smart OCR scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
