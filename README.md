@@ -11,8 +11,7 @@
 
 BITA v3.0 utilizes a **Local-First Cloud-Sync** architecture. This means the application runs entirely on your device for zero-latency operations, while silently synchronizing a binary backup of your entire database to the cloud.
 
-![System Architecture](/architecture_diagram.png)
-
+C:\Users\ABM\Desktop\bakery-vendor-tracker\public\architecture_diagram.png
 ---
 
 ## ✨ Core Modules
